@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Although time is limited and most of us spent a huge amount of our time in front of our screens📱🖥️, I come here to mix my hobbies with technology.
 
-Since I am continuously spending a good chunk of my time with C# and .NET at work, I am currently trying stay up do date with my JavaScript skills with some small projects that I have on mind. Moreover, I am looking forward to contribute on open-source projects 🤓.
+I am currently trying stay up do date with my skills spending some time in small projects. Moreover, I am looking forward to contribute on open-source projects 🤓.
 
 Thanks for your visit 🙂
