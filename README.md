@@ -11,9 +11,9 @@ I enjoy bridging user needs into clear specs and building end-to-end application
 
 ---
 
-### 🛠 Tech & Architecture Stack
+### 🛠 Tech Stack
 - **Product & Architecture:** Spec-Driven Development, Domain Modeling, Microservices & Edge.
 - **AI & Agentic Workflows:** Ollama, LMStudio, Vision LLMs, Model Context Protocol (MCP), GH-Copilot & Pi.
 - **Core Engineering:** Python, TypeScript, C# / .NET, React, Docker, CI/CD, Cloud & Edge Infrastructure.
 
-🌐 [Portfolio & CV](https://cv.by-francisco.com) | 💼 [LinkedIn](https://www.linkedin.com/in/franciscosusana)
+🌐 [CV](https://cv.by-francisco.com) | 💼 [LinkedIn](https://www.linkedin.com/in/franciscosusana)
