@@ -1,5 +1,5 @@
 # Hi, I'm Francisco 👋
-### Senior Software Engineer & Telecommunications
+### Software Engineer & Telecommunications
 
 ---
 
