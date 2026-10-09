@@ -1,5 +1,5 @@
 # Hi, I'm Francisco 👋
-### Software Engineer & Telecommunications
+### Software & Electronics Engineer | M.Sc., B.Sc.
 
 ---
 
